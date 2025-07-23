@@ -1,0 +1,1174 @@
+ResponseId
+1        1
+59454    1
+59462    1
+59461    1
+59460    1
+        ..
+29727    1
+29726    1
+29725    1
+29724    1
+89184    1
+Name: count, Length: 89184, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+Q120
+I agree    89184
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+MainBranch
+I am a developer by profession                                                           67237
+I am not primarily a developer, but I write code sometimes as part of my work/studies     8954
+I am learning to code                                                                     4961
+I code primarily as a hobby                                                               4960
+I used to be a developer by profession, but no longer am                                  1861
+None of these                                                                             1211
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+Age
+25-34 years old       33247
+35-44 years old       20532
+18-24 years old       17931
+45-54 years old        8334
+Under 18 years old     4128
+55-64 years old        3392
+65 years or older      1171
+Prefer not to say       449
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+Employment
+Employed, full-time                                                                                                                                                                                             53748
+Student, full-time                                                                                                                                                                                               7430
+Independent contractor, freelancer, or self-employed                                                                                                                                                             7076
+Employed, full-time;Independent contractor, freelancer, or self-employed                                                                                                                                         4354
+Not employed, but looking for work                                                                                                                                                                               2553
+                                                                                                                                                                                                                ...  
+Employed, full-time;Independent contractor, freelancer, or self-employed;Not employed, but looking for work;Student, full-time;Employed, part-time;Student, part-time;Not employed, and not looking for work        1
+Employed, full-time;Independent contractor, freelancer, or self-employed;Student, full-time;Student, part-time                                                                                                      1
+Employed, full-time;Independent contractor, freelancer, or self-employed;Student, full-time;Retired                                                                                                                 1
+Employed, full-time;Independent contractor, freelancer, or self-employed;Not employed, but looking for work;Not employed, and not looking for work                                                                  1
+Employed, full-time;Not employed, but looking for work;Employed, part-time;Student, part-time                                                                                                                       1
+Name: count, Length: 106, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+RemoteWork
+Hybrid (some remote, some in-person)    31131
+Remote                                  30566
+In-person                               12113
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+CodingActivities
+Hobby                                                                                                                                                                                    15308
+I don’t code outside of work                                                                                                                                                              8809
+Hobby;Professional development or self-paced learning from online courses                                                                                                                 8232
+Hobby;Contribute to open-source projects                                                                                                                                                  5363
+Professional development or self-paced learning from online courses                                                                                                                       3920
+                                                                                                                                                                                         ...  
+Hobby;Bootstrapping a business;Freelance/contract work;School or academic work;Other (please specify):                                                                                       1
+Contribute to open-source projects;Professional development or self-paced learning from online courses;Freelance/contract work;Other (please specify):                                       1
+Hobby;Contribute to open-source projects;Bootstrapping a business;Professional development or self-paced learning from online courses;School or academic work;Other (please specify):        1
+Hobby;Contribute to open-source projects;Bootstrapping a business;School or academic work;Other (please specify):                                                                            1
+Contribute to open-source projects;Bootstrapping a business;Professional development or self-paced learning from online courses;Other (please specify):                                      1
+Name: count, Length: 116, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+EdLevel
+Bachelor’s degree (B.A., B.S., B.Eng., etc.)                                          36706
+Master’s degree (M.A., M.S., M.Eng., MBA, etc.)                                       20543
+Some college/university study without earning a degree                                11753
+Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)     8897
+Professional degree (JD, MD, Ph.D, Ed.D, etc.)                                         3887
+Associate degree (A.A., A.S., etc.)                                                    2807
+Primary/elementary school                                                              1905
+Something else                                                                         1475
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+LearnCode
+Other online resources (e.g., videos, blogs, forum)                                                                                                                                                             4873
+Books / Physical media;Other online resources (e.g., videos, blogs, forum)                                                                                                                                      3300
+Other online resources (e.g., videos, blogs, forum);School (i.e., University, College, etc)                                                                                                                     3070
+Books / Physical media;Online Courses or Certification;Other online resources (e.g., videos, blogs, forum)                                                                                                      3024
+Online Courses or Certification;Other online resources (e.g., videos, blogs, forum)                                                                                                                             2871
+                                                                                                                                                                                                                ... 
+Colleague;Friend or family member;Hackathons (virtual or in-person);Other online resources (e.g., videos, blogs, forum);Coding Bootcamp                                                                            1
+Books / Physical media;Colleague;Hackathons (virtual or in-person);On the job training;Coding Bootcamp                                                                                                             1
+Books / Physical media;Hackathons (virtual or in-person);Online Courses or Certification;Other online resources (e.g., videos, blogs, forum);School (i.e., University, College, etc);Other (please specify):       1
+Books / Physical media;Friend or family member;Hackathons (virtual or in-person);On the job training;Other online resources (e.g., videos, blogs, forum);Coding Bootcamp;Other (please specify):                   1
+Colleague;Hackathons (virtual or in-person);Coding Bootcamp                                                                                                                                                        1
+Name: count, Length: 790, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+LearnCodeOnline
+Formal documentation provided by the owner of the tech;Blogs with tips and tricks;Written Tutorials;Click to write Choice 20;Stack Overflow                                                                                                                                                                                         1182
+Formal documentation provided by the owner of the tech;Blogs with tips and tricks;Written Tutorials;Stack Overflow                                                                                                                                                                                                                   977
+Formal documentation provided by the owner of the tech;Blogs with tips and tricks;Stack Overflow                                                                                                                                                                                                                                     802
+Formal documentation provided by the owner of the tech;Blogs with tips and tricks;How-to videos;Written Tutorials;Click to write Choice 20;Stack Overflow                                                                                                                                                                            770
+Formal documentation provided by the owner of the tech;Blogs with tips and tricks;Books;Written Tutorials;Click to write Choice 20;Stack Overflow                                                                                                                                                                                    768
+                                                                                                                                                                                                                                                                                                                                    ... 
+Formal documentation provided by the owner of the tech;Books;How-to videos;Video-based Online Courses;Online challenges (e.g., daily or weekly coding challenges);Written Tutorials;Interactive tutorial;Certification videos                                                                                                          1
+Formal documentation provided by the owner of the tech;Books;Recorded coding sessions;How-to videos;Certification videos;Programming Games                                                                                                                                                                                             1
+Formal documentation provided by the owner of the tech;Blogs with tips and tricks;Video-based Online Courses;Click to write Choice 20;Stack Overflow;Programming Games                                                                                                                                                                 1
+Formal documentation provided by the owner of the tech;Blogs with tips and tricks;Books;How-to videos;Video-based Online Courses;Written-based Online Courses;Online challenges (e.g., daily or weekly coding challenges);Written Tutorials;Click to write Choice 20;Interactive tutorial;Certification videos;Programming Games       1
+Formal documentation provided by the owner of the tech;Blogs with tips and tricks;Recorded coding sessions;Video-based Online Courses;Auditory material (e.g., podcasts);Online challenges (e.g., daily or weekly coding challenges);Written Tutorials;Click to write Choice 20;Stack Overflow;Interactive tutorial                    1
+Name: count, Length: 7940, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+LearnCodeCoursesCert
+Udemy                                              7445
+Other                                              3230
+Udemy;Coursera                                     2612
+Udemy;Pluralsight                                  1958
+Codecademy;Udemy                                   1837
+                                                   ... 
+Other;edX;Udacity;Skillsoft                           1
+Other;Pluralsight;Coursera;Skillsoft                  1
+Other;Codecademy;edX;Pluralsight;Udacity              1
+Other;Codecademy;Pluralsight;Coursera;Skillsoft       1
+Other;Codecademy;Pluralsight;Coursera;Udacity         1
+Name: count, Length: 210, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+YearsCode
+10                    6521
+5                     5415
+6                     4893
+8                     4879
+7                     4800
+4                     4466
+15                    4336
+3                     4269
+20                    4021
+12                    3471
+9                     3130
+2                     2826
+25                    2685
+13                    2601
+11                    2519
+14                    2278
+30                    2078
+16                    1842
+18                    1690
+17                    1544
+23                    1327
+40                    1302
+1                     1294
+22                    1210
+35                    1118
+Less than 1 year       968
+24                     959
+19                     826
+21                     761
+28                     715
+27                     710
+26                     706
+33                     496
+32                     444
+38                     428
+45                     360
+More than 50 years     353
+42                     347
+34                     333
+29                     324
+37                     312
+36                     282
+31                     272
+43                     265
+39                     229
+41                     227
+44                     160
+50                     125
+46                     101
+48                      96
+47                      79
+49                      42
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+YearsCodePro
+5                     4792
+10                    4594
+2                     4464
+3                     4378
+4                     3970
+6                     3637
+7                     3509
+8                     3462
+15                    2789
+1                     2596
+12                    2398
+20                    2227
+9                     2145
+11                    2013
+Less than 1 year      1836
+13                    1690
+25                    1449
+16                    1278
+14                    1256
+18                    1212
+17                    1146
+23                    1112
+30                     924
+22                     845
+24                     686
+19                     649
+21                     565
+27                     490
+26                     486
+35                     462
+28                     417
+40                     329
+32                     293
+33                     264
+29                     217
+36                     200
+31                     187
+34                     177
+38                     164
+37                     150
+45                     102
+39                      99
+More than 50 years      83
+42                      81
+41                      79
+43                      67
+44                      42
+46                      33
+48                      30
+47                      24
+50                      24
+49                      14
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+DevType
+Developer, full-stack                            25735
+Developer, back-end                              13745
+Developer, front-end                              5071
+Developer, desktop or enterprise applications     3904
+Other (please specify):                           3080
+Developer, mobile                                 2597
+Engineering manager                               2033
+Student                                           1996
+Developer, embedded applications or devices       1845
+Data scientist or machine learning specialist     1588
+DevOps specialist                                 1387
+Academic researcher                               1354
+Research & Development role                       1353
+Senior Executive (C-Suite, VP, etc.)              1332
+Engineer, data                                    1248
+Cloud infrastructure engineer                     1036
+Developer, game or graphics                        866
+Data or business analyst                           837
+System administrator                               743
+Project manager                                    589
+Developer, QA or test                              586
+Security professional                              474
+Product manager                                    446
+Engineer, site reliability                         427
+Educator                                           415
+Scientist                                          351
+Developer Experience                               326
+Blockchain                                         323
+Hardware Engineer                                  286
+Designer                                           281
+Database administrator                             257
+Developer Advocate                                 212
+Marketing or sales professional                    149
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+OrgSize
+20 to 99 employees                                    13380
+100 to 499 employees                                  12218
+10,000 or more employees                               7929
+1,000 to 4,999 employees                               7235
+2 to 9 employees                                       6439
+10 to 19 employees                                     5254
+500 to 999 employees                                   4472
+Just me - I am a freelancer, sole proprietor, etc.     4196
+5,000 to 9,999 employees                               2677
+I don’t know                                           1243
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+PurchaseInfluence
+I have some influence               26805
+I have little or no influence       22734
+I have a great deal of influence    15425
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+TechList
+Investigate     49212
+Given a list     7935
+Other            3704
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+BuyNewTool
+Start a free trial;Ask developers I know/work with;Visit developer communities like Stack Overflow                                                                                                                                     12371
+Start a free trial;Ask developers I know/work with                                                                                                                                                                                      7910
+Start a free trial;Ask developers I know/work with;Visit developer communities like Stack Overflow;Read ratings or reviews on third party sites like G2 Crowd                                                                           6302
+Start a free trial                                                                                                                                                                                                                      4712
+Ask developers I know/work with;Visit developer communities like Stack Overflow                                                                                                                                                         4358
+                                                                                                                                                                                                                                       ...  
+Start a free trial;Other (please specify):;Research companies that have advertised on sites I visit;Read ratings or reviews on third party sites like G2 Crowd;Research companies that have emailed me                                     1
+Start a free trial;Other (please specify):;Research companies that have emailed me                                                                                                                                                         1
+Start a free trial;Other (please specify):;Research companies that have advertised on sites I visit;Read ratings or reviews on third party sites like G2 Crowd;Ask a generative AI tool                                                    1
+Ask developers I know/work with;Visit developer communities like Stack Overflow;Other (please specify):;Read ratings or reviews on third party sites like G2 Crowd;Ask a generative AI tool;Research companies that have emailed me        1
+Ask a generative AI tool;Research companies that have emailed me                                                                                                                                                                           1
+Name: count, Length: 231, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+Country
+United States of America                                18647
+Germany                                                  7328
+India                                                    5625
+United Kingdom of Great Britain and Northern Ireland     5552
+Canada                                                   3507
+                                                        ...  
+Saint Kitts and Nevis                                       1
+Marshall Islands                                            1
+Samoa                                                       1
+Central African Republic                                    1
+San Marino                                                  1
+Name: count, Length: 185, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+Currency
+EUR European Euro            17651
+USD\tUnited States dollar    16729
+GBP\tPound sterling           4473
+INR\tIndian rupee             3615
+CAD\tCanadian dollar          2647
+                             ...  
+SDG\tSudanese pound              1
+JEP\tJersey pound                1
+KMF\tComorian franc              1
+CVE\tCape Verdean escudo         1
+SSP\tSouth Sudanese pound        1
+Name: count, Length: 144, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+CompTotal
+1.000000e+05    1355
+6.000000e+04    1290
+1.200000e+05    1240
+1.500000e+05    1150
+8.000000e+04    1066
+                ... 
+1.642800e+06       1
+1.380910e+05       1
+2.957000e+04       1
+4.190000e+05       1
+3.300000e+09       1
+Name: count, Length: 3828, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+LanguageHaveWorkedWith
+HTML/CSS;JavaScript;TypeScript                                                                        1487
+Python                                                                                                1132
+HTML/CSS;JavaScript                                                                                    735
+HTML/CSS;JavaScript;PHP;SQL                                                                            718
+C#                                                                                                     649
+                                                                                                      ... 
+Bash/Shell (all shells);C;C#;Java;JavaScript;Perl;PHP;Python;SQL                                         1
+Assembly;C;JavaScript;MATLAB;SQL                                                                         1
+C#;Crystal                                                                                               1
+Bash/Shell (all shells);C;C++;Go;Haskell;HTML/CSS;Java;JavaScript;Lua;Python;TypeScript                  1
+Bash/Shell (all shells);C#;HTML/CSS;Java;JavaScript;Lua;Objective-C;PowerShell;Python;Solidity;SQL       1
+Name: count, Length: 32641, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+LanguageWantToWorkWith
+Rust                                                                              1438
+Python                                                                            1182
+HTML/CSS;JavaScript;TypeScript                                                    1071
+C#                                                                                 736
+Go                                                                                 618
+                                                                                  ... 
+C#;Dart;Go;HTML/CSS;Python;R;Swift;TypeScript                                        1
+C#;C++;HTML/CSS;Java;Kotlin;Lua;PHP;SQL                                              1
+Bash/Shell (all shells);Dart;HTML/CSS;Python;SQL;TypeScript                          1
+C#;HTML/CSS;Java;JavaScript;PHP;SQL;VBA;Visual Basic (.Net)                          1
+Assembly;Bash/Shell (all shells);C;C++;HTML/CSS;JavaScript;Ruby;SQL;TypeScript       1
+Name: count, Length: 29602, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+DatabaseHaveWorkedWith
+PostgreSQL                                                                                                                                                       4350
+Microsoft SQL Server                                                                                                                                             3322
+MySQL                                                                                                                                                            3116
+SQLite                                                                                                                                                           2299
+MongoDB                                                                                                                                                          1663
+                                                                                                                                                                 ... 
+Cassandra;Elasticsearch;MariaDB;MySQL;PostgreSQL;Redis;Solr                                                                                                         1
+Cassandra;Cockroachdb;Couch DB;Couchbase;Elasticsearch;Firebird;MariaDB;Microsoft Access;Microsoft SQL Server;MongoDB;MySQL;Neo4J;Oracle;PostgreSQL;Snowflake       1
+Elasticsearch;IBM DB2;Microsoft SQL Server;MySQL;Oracle;PostgreSQL                                                                                                  1
+BigQuery;Cloud Firestore;Elasticsearch;MongoDB;MySQL;Oracle;PostgreSQL;Redis;SQLite                                                                                 1
+Firebird;IBM DB2;MariaDB;Microsoft Access;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;SQLite                                                                      1
+Name: count, Length: 11096, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+DatabaseWantToWorkWith
+PostgreSQL                                                                                                                                    4815
+Microsoft SQL Server                                                                                                                          2180
+SQLite                                                                                                                                        1771
+MySQL                                                                                                                                         1754
+PostgreSQL;SQLite                                                                                                                             1631
+                                                                                                                                              ... 
+Cloud Firestore;Cockroachdb;Dynamodb;Elasticsearch;Firebase Realtime Database;MariaDB;Microsoft SQL Server;MySQL;PostgreSQL;Redis;Supabase       1
+Cassandra;Couchbase;Dynamodb;MongoDB;MySQL;PostgreSQL;Redis                                                                                      1
+Cassandra;Cockroachdb;Dynamodb;Elasticsearch;InfluxDB;MariaDB;MongoDB;MySQL;Neo4J;PostgreSQL;Redis;SQLite;Supabase                               1
+Dynamodb;Elasticsearch;MariaDB;Snowflake;SQLite                                                                                                  1
+Cassandra;Cosmos DB;Dynamodb;MariaDB;Microsoft SQL Server;MongoDB;MySQL;Oracle;PostgreSQL;Redis;SQLite                                           1
+Name: count, Length: 10485, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+PlatformHaveWorkedWith
+Amazon Web Services (AWS)                                                                                                                            9804
+Microsoft Azure                                                                                                                                      5945
+Google Cloud                                                                                                                                         2495
+Amazon Web Services (AWS);Microsoft Azure                                                                                                            2192
+Amazon Web Services (AWS);Google Cloud                                                                                                               1810
+                                                                                                                                                     ... 
+Hetzner;Managed Hosting;Microsoft Azure;Vercel                                                                                                          1
+Digital Ocean;Firebase;Microsoft Azure;Netlify                                                                                                          1
+Amazon Web Services (AWS);Cloudflare;Digital Ocean;Heroku;IBM Cloud Or Watson;Linode, now Akamai;Netlify;Vercel;Vultr                                   1
+Amazon Web Services (AWS);Cloudflare;Firebase;Google Cloud;Heroku;Microsoft Azure;OpenShift;Vercel;VMware                                               1
+Amazon Web Services (AWS);Cloudflare;Digital Ocean;Firebase;Google Cloud;Managed Hosting;Microsoft Azure;Oracle Cloud Infrastructure (OCI);Vercel       1
+Name: count, Length: 5920, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+PlatformWantToWorkWith
+Amazon Web Services (AWS)                                                                                                        7269
+Microsoft Azure                                                                                                                  4239
+Amazon Web Services (AWS);Microsoft Azure                                                                                        2023
+Google Cloud                                                                                                                     1885
+Amazon Web Services (AWS);Google Cloud                                                                                           1695
+                                                                                                                                 ... 
+Digital Ocean;Hetzner;Managed Hosting;OpenShift;OpenStack                                                                           1
+Cloudflare;Colocation;Digital Ocean;Microsoft Azure                                                                                 1
+Hetzner;OpenStack;OVH                                                                                                               1
+Google Cloud;OpenStack;Oracle Cloud Infrastructure (OCI)                                                                            1
+Amazon Web Services (AWS);Cloudflare;Digital Ocean;Firebase;Google Cloud;Heroku;Managed Hosting;Microsoft Azure;Vercel;VMware       1
+Name: count, Length: 4963, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+WebframeHaveWorkedWith
+React                                                                         2017
+Spring Boot                                                                   1479
+Node.js                                                                       1452
+Node.js;React                                                                 1161
+Flask                                                                         1069
+                                                                              ... 
+ASP.NET;ASP.NET CORE;Express;Flask;jQuery;Spring Boot                            1
+Angular;Django;Express;Flask;Next.js;Node.js;React;Svelte;Vue.js                 1
+Blazor;Deno;Solid.js                                                             1
+Nuxt.js;React;Ruby on Rails;Svelte;Vue.js                                        1
+Angular;AngularJS;Express;jQuery;Node.js;Nuxt.js;Spring Boot;Svelte;Vue.js       1
+Name: count, Length: 15144, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+WebframeWantToWorkWith
+React                                                                              1561
+Spring Boot                                                                        1200
+Node.js                                                                             973
+ASP.NET CORE                                                                        841
+Svelte                                                                              840
+                                                                                   ... 
+ASP.NET CORE;Django;Express;FastAPI;NestJS;Next.js;Node.js;Nuxt.js;React;Vue.js       1
+Angular;AngularJS;ASP.NET;ASP.NET CORE;jQuery;Laravel;Node.js;Vue.js;WordPress        1
+Deno;Next.js;Nuxt.js;Phoenix;Qwik;Svelte;Vue.js                                       1
+AngularJS;Flask;Next.js;Node.js;React;Svelte;Vue.js                                   1
+Angular;ASP.NET;ASP.NET CORE;Blazor;Deno;Node.js;Svelte                               1
+Name: count, Length: 14620, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+MiscTechHaveWorkedWith
+.NET (5+) ;.NET Framework (1.0 - 4.8)                                                                        3854
+.NET (5+)                                                                                                    3663
+Spring Framework                                                                                             2179
+Flutter                                                                                                      1614
+React Native                                                                                                 1613
+                                                                                                             ... 
+Apache Kafka;Electron;Micronaut;RabbitMQ;Spring Framework                                                       1
+Flutter;Pandas;Tauri;Torch/PyTorch                                                                              1
+.NET (5+) ;.NET MAUI;Apache Kafka;Apache Spark;CUDA;Hadoop;NumPy;Opencv;Pandas;Scikit-Learn;Torch/PyTorch       1
+Apache Kafka;Apache Spark;CUDA;Keras;NumPy;Pandas;Scikit-Learn;TensorFlow;Torch/PyTorch                         1
+Flutter;Opencv;RabbitMQ;Spring Framework;Torch/PyTorch                                                          1
+Name: count, Length: 10322, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+MiscTechWantToWorkWith
+.NET (5+)                                                                                                3582
+Flutter                                                                                                  1353
+Spring Framework                                                                                         1173
+.NET (5+) ;.NET Framework (1.0 - 4.8)                                                                    1079
+React Native                                                                                              967
+                                                                                                         ... 
+.NET (5+) ;Electron;Hugging Face Transformers;Keras;NumPy;Pandas;React Native;Scikit-Learn;TensorFlow       1
+Electron;Micronaut;Pandas;Quarkus;RabbitMQ                                                                  1
+Apache Kafka;CUDA;NumPy;Opencv;TensorFlow;Torch/PyTorch                                                     1
+.NET (5+) ;CUDA;MFC;NumPy;Opencv;Torch/PyTorch                                                              1
+CUDA;Flutter;NumPy;TensorFlow;Torch/PyTorch                                                                 1
+Name: count, Length: 11775, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+ToolsTechHaveWorkedWith
+Visual Studio Solution                                                       1264
+Docker                                                                       1200
+npm                                                                          1166
+Pip                                                                           935
+Maven (build tool)                                                            556
+                                                                             ... 
+Ansible;Cargo;Docker;Homebrew;Kubernetes;Make;Pip;SCons;Terraform               1
+Ansible;Docker;GNU GCC;Homebrew;Kubernetes;Make;Pip;Puppet;Terraform;Yarn       1
+Ansible;Ant;Chef;Chocolatey;Docker;Gradle;Kubernetes;npm;Pip;Puppet;Yarn        1
+Ant;Gradle;Make;MSBuild;MSVC                                                    1
+Docker;Kubernetes;npm;Podman;Vite                                               1
+Name: count, Length: 33133, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+ToolsTechWantToWorkWith
+Docker                                                                                                            1331
+Visual Studio Solution                                                                                             960
+npm                                                                                                                880
+Cargo                                                                                                              817
+Docker;Kubernetes                                                                                                  667
+                                                                                                                  ... 
+Bun;Docker;Pip                                                                                                       1
+Ansible;Bun;Chocolatey;Docker;Homebrew;Kubernetes;npm;Terraform;Unity 3D;Vite;Yarn                                   1
+Bun;Cargo;GNU GCC;LLVM's Clang;Make;Meson;Ninja;Pacman;Podman                                                        1
+Cargo;Docker;GNU GCC;LLVM's Clang;Wasmer                                                                             1
+Ansible;APT;Docker;Kubernetes;npm;Pip;Podman;Terraform;Unity 3D;Unreal Engine;Visual Studio Solution;Vite;Yarn       1
+Name: count, Length: 27456, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+NEWCollabToolsHaveWorkedWith
+Visual Studio Code                                                                                                                                  8754
+Visual Studio;Visual Studio Code                                                                                                                    3430
+Notepad++;Visual Studio;Visual Studio Code                                                                                                          2167
+IntelliJ IDEA;Visual Studio Code                                                                                                                    1654
+Vim;Visual Studio Code                                                                                                                              1602
+                                                                                                                                                    ... 
+Android Studio;DataGrip;IntelliJ IDEA;Jupyter Notebook/JupyterLab;Notepad++;PyCharm;Sublime Text;Visual Studio;Visual Studio Code;WebStorm;Xcode       1
+Android Studio;CLion;Neovim;Vim;Visual Studio Code;Xcode                                                                                               1
+Android Studio;CLion;Fleet;IntelliJ IDEA;Rider;WebStorm;Xcode                                                                                          1
+Emacs;IntelliJ IDEA;IPython;Jupyter Notebook/JupyterLab;PyCharm;Vim;Visual Studio Code;Xcode                                                           1
+Eclipse;IntelliJ IDEA;Nano;Notepad++;PyCharm;Vim;Visual Studio;Visual Studio Code                                                                      1
+Name: count, Length: 21262, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+NEWCollabToolsWantToWorkWith
+Visual Studio Code                                                                      10193
+Visual Studio;Visual Studio Code                                                         3145
+Neovim                                                                                   2309
+Notepad++;Visual Studio;Visual Studio Code                                               1674
+Vim;Visual Studio Code                                                                   1667
+                                                                                        ...  
+Geany;Vim;Visual Studio                                                                     1
+IntelliJ IDEA;Nano;TextMate                                                                 1
+CLion;Code::Blocks;IntelliJ IDEA;PhpStorm;PyCharm;RubyMine;Sublime Text;Vim;WebStorm        1
+Android Studio;IntelliJ IDEA;Notepad++;PhpStorm;Rider;Visual Studio Code;WebStorm           1
+Goland;IntelliJ IDEA;Nano;Notepad++;PyCharm;WebStorm                                        1
+Name: count, Length: 13659, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+OpSysPersonal use
+Windows                                                                                                     17688
+MacOS                                                                                                       10022
+Ubuntu                                                                                                       4137
+Windows;Windows Subsystem for Linux (WSL)                                                                    3436
+Ubuntu;Windows                                                                                               3259
+                                                                                                            ...  
+Android;Arch;BSD;Cygwin;Debian;Fedora;Other Linux-based;Ubuntu;Windows;Windows Subsystem for Linux (WSL)        1
+iOS;iPadOS;MacOS;Other Linux-based;Ubuntu;Other (Please Specify):                                               1
+Android;Arch;Debian;iOS;Windows;Windows Subsystem for Linux (WSL)                                               1
+Android;Debian;MacOS;Other (Please Specify):                                                                    1
+Android;ChromeOS;iOS;iPadOS;Other Linux-based;Windows                                                           1
+Name: count, Length: 3050, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+OpSysProfessional use
+Windows                                                                                                     15943
+MacOS                                                                                                       12928
+Ubuntu                                                                                                       5201
+Windows;Windows Subsystem for Linux (WSL)                                                                    3934
+Ubuntu;Windows                                                                                               2795
+                                                                                                            ...  
+Debian;iOS;iPadOS;MacOS;Red Hat;Windows                                                                         1
+BSD;Other Linux-based;Red Hat                                                                                   1
+Arch;BSD;ChromeOS;Debian;iOS;iPadOS;MacOS;Red Hat;Ubuntu;Windows;Windows Subsystem for Linux (WSL)              1
+Android;Arch;BSD;Cygwin;Debian;Fedora;Other Linux-based;Ubuntu;Windows;Windows Subsystem for Linux (WSL)        1
+BSD;Red Hat;Solaris;Ubuntu;Windows                                                                              1
+Name: count, Length: 2470, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+OfficeStackAsyncHaveWorkedWith
+Jira                                                                        5810
+Confluence;Jira                                                             5779
+Markdown File                                                               2500
+Azure Devops                                                                2446
+GitHub Discussions                                                          2044
+                                                                            ... 
+Asana;Azure Devops;Clickup;Confluence;Jira;Miro;Monday.com;Notion;Trello       1
+Azure Devops;Confluence;Jira;Markdown File;Miro;Notion;Trello;Wikis            1
+Asana;Clickup;GitHub Discussions;Miro;Notion                                   1
+Asana;Azure Devops;Jira;Markdown File;Miro;Monday.com                          1
+Asana;Confluence;Jira;Markdown File;Miro;Notion;Trello;Wikis                   1
+Name: count, Length: 6258, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+OfficeStackAsyncWantToWorkWith
+Jira                                                        4467
+Markdown File                                               3699
+Confluence;Jira                                             3630
+Azure Devops                                                2548
+GitHub Discussions                                          2255
+                                                            ... 
+Airtable;Linear;Monday.com                                     1
+Azure Devops;Notion;Redmine                                    1
+Airtable;Asana;Notion;Shortcut                                 1
+Azure Devops;Jira;Microsoft Planner;Monday.com;Trello          1
+Azure Devops;GitHub Discussions;Microsoft Planner;Trello       1
+Name: count, Length: 3754, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+OfficeStackSyncHaveWorkedWith
+Microsoft Teams                                                                          7018
+Slack;Zoom                                                                               2631
+Discord                                                                                  2614
+Microsoft Teams;Slack                                                                    2309
+Slack                                                                                    2308
+                                                                                         ... 
+Discord;Google Chat;Google Meet;IRC;Matrix;Microsoft Teams;Signal;Slack;Whatsapp;Zoom       1
+Discord;Google Chat;Google Meet;IRC;Jitsi;Slack;Telegram;Whatsapp;Zoom                      1
+Cisco Webex Teams;Google Chat;Google Meet;Signal;Slack;Telegram                             1
+Discord;Google Meet;Mattermost;Microsoft Teams;Slack;Zulip                                  1
+Cisco Webex Teams;Jitsi;Microsoft Teams;Skype;Slack;Telegram                                1
+Name: count, Length: 6925, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+OfficeStackSyncWantToWorkWith
+Microsoft Teams                                                                5790
+Slack                                                                          4903
+Discord                                                                        4557
+Google Meet;Slack                                                              2770
+Slack;Zoom                                                                     2701
+                                                                               ... 
+Discord;Mattermost;Wire                                                           1
+Discord;Google Meet;IRC;Matrix;Microsoft Teams;Rocketchat;Signal;Slack;Zoom       1
+Google Meet;Matrix;Signal;Telegram;Zoom;Zulip                                     1
+Discord;Google Meet;Jitsi;Slack;Whatsapp;Zoom                                     1
+Google Meet;IRC;Matrix;Signal;Whatsapp;Zulip                                      1
+Name: count, Length: 4078, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+AISearchHaveWorkedWith
+ChatGPT                                                            32150
+Bing AI;ChatGPT                                                     6537
+ChatGPT;WolframAlpha                                                3855
+ChatGPT;Google Bard AI                                              2274
+Bing AI;ChatGPT;Google Bard AI                                      1758
+                                                                   ...  
+ChatGPT;Google Bard AI;Neeva AI;WolframAlpha;You.com                   1
+Neeva AI;Phind                                                         1
+Bing AI;ChatGPT;Google Bard AI;Neeva AI;Phind;Quora Poe;You.com        1
+Andi;ChatGPT;Google Bard AI;Neeva AI;Phind                             1
+Bing AI;ChatGPT;Google Bard AI;Metaphor;Neeva AI;WolframAlpha          1
+Name: count, Length: 323, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+AISearchWantToWorkWith
+ChatGPT                                                                               21609
+ChatGPT;Google Bard AI                                                                 4269
+Bing AI;ChatGPT                                                                        4213
+Bing AI;ChatGPT;Google Bard AI                                                         3374
+ChatGPT;WolframAlpha                                                                   2573
+                                                                                      ...  
+Andi;ChatGPT;Google Bard AI;Metaphor;WolframAlpha                                         1
+ChatGPT;Neeva AI;Quora Poe;WolframAlpha;You.com                                           1
+Neeva AI;Perplexity AI                                                                    1
+Bing AI;ChatGPT;Neeva AI;Perplexity AI;Phind                                              1
+Bing AI;ChatGPT;Google Bard AI;Neeva AI;Perplexity AI;Phind;Quora Poe;WolframAlpha        1
+Name: count, Length: 399, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+AIDevHaveWorkedWith
+GitHub Copilot                                                17754
+GitHub Copilot;Tabnine                                         2248
+Tabnine                                                        2160
+AWS CodeWhisperer;GitHub Copilot                                813
+AWS CodeWhisperer                                               674
+                                                              ...  
+Rubber Duck.AI;Whispr AI                                          1
+Adrenaline;Codeium;GitHub Copilot                                 1
+GitHub Copilot;Mintlify;Synk Code                                 1
+AWS CodeWhisperer;Codeium;GitHub Copilot;Tabnine;Whispr AI        1
+AWS CodeWhisperer;Codeium;GitHub Copilot;Mintlify;Tabnine         1
+Name: count, Length: 166, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+AIDevWantToWorkWith
+GitHub Copilot                                                                     13426
+AWS CodeWhisperer;GitHub Copilot                                                    1463
+Tabnine                                                                              804
+GitHub Copilot;Tabnine                                                               751
+AWS CodeWhisperer                                                                    657
+                                                                                   ...  
+GitHub Copilot;Replit Ghostwriter;Rubber Duck.AI;Synk Code                             1
+Adrenaline;Mintlify;Tabnine                                                            1
+AWS CodeWhisperer;GitHub Copilot;Replit Ghostwriter;Synk Code;Tabnine;Whispr AI        1
+Adrenaline;Tabnine                                                                     1
+Adrenaline;Codeium;GitHub Copilot;Rubber Duck.AI;Synk Code;Whispr AI                   1
+Name: count, Length: 233, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+NEWSOSites
+Stack Overflow;Stack Exchange                                                                                                                              51270
+Stack Overflow                                                                                                                                             25606
+Stack Overflow;Stack Exchange;Collectives on Stack Overflow                                                                                                 4119
+Stack Overflow;Stack Exchange;Stack Overflow for Teams (private knowledge sharing & collaboration platform for companies)                                   2239
+Stack Overflow;Collectives on Stack Overflow                                                                                                                1045
+Stack Overflow;Stack Exchange;Stack Overflow for Teams (private knowledge sharing & collaboration platform for companies);Collectives on Stack Overflow     1028
+Stack Overflow;Stack Overflow for Teams (private knowledge sharing & collaboration platform for companies)                                                   759
+I have never visited Stack Overflow or the Stack Exchange network                                                                                            611
+Collectives on Stack Overflow                                                                                                                                585
+Stack Exchange                                                                                                                                               259
+Stack Overflow;Stack Overflow for Teams (private knowledge sharing & collaboration platform for companies);Collectives on Stack Overflow                     173
+Stack Overflow for Teams (private knowledge sharing & collaboration platform for companies)                                                                  119
+Stack Exchange;Collectives on Stack Overflow                                                                                                                  81
+Stack Overflow for Teams (private knowledge sharing & collaboration platform for companies);Collectives on Stack Overflow                                     46
+Stack Exchange;Stack Overflow for Teams (private knowledge sharing & collaboration platform for companies)                                                    19
+Stack Exchange;Stack Overflow for Teams (private knowledge sharing & collaboration platform for companies);Collectives on Stack Overflow                      14
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+SOVisitFreq
+A few times per week                   28085
+Daily or almost daily                  22124
+A few times per month or weekly        20312
+Multiple times per day                 11952
+Less than once per month or monthly     4667
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+SOAccount
+Yes                        66282
+No                         14618
+Not sure/can't remember     6952
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+SOPartFreq
+Less than once per month or monthly                   34661
+I have never participated in Q&A on Stack Overflow    16961
+A few times per month or weekly                        9160
+A few times per week                                   3285
+Daily or almost daily                                  1309
+Multiple times per day                                  685
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+SOComm
+No, not really     29100
+Neutral            19033
+Yes, somewhat      19026
+No, not at all     11598
+Yes, definitely     7996
+Not sure             939
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+SOAI
+No opinion                                                                                                                                                                                                                                                                                                                                                                                                               210
+Yes                                                                                                                                                                                                                                                                                                                                                                                                                      194
+Good                                                                                                                                                                                                                                                                                                                                                                                                                     154
+yes                                                                                                                                                                                                                                                                                                                                                                                                                      133
+good                                                                                                                                                                                                                                                                                                                                                                                                                     100
+                                                                                                                                                                                                                                                                                                                                                                                                                        ... 
+using AI to help edit/write questions, consolidate questions seems like a good idea. be fine to use it on the backend to analyse the site data etc. don't think using it to answer questions is a good idea yet                                                                                                                                                                                                            1
+It would be nice if the A.I. tried to provide answers to questions before other users.                                                                                                                                                                                                                                                                                                                                     1
+I believe AI could be helpful in collating data to provide a response to a questions For example, a user could free-form a question, like "How do I write a loop in Ruby?", and could receive a single response from the AI algorithm. You could still list individual SO posts, like the search feature currently does, but the AI collating the data for you could me the experience a little better/faster/easier.      1
+Provide more relevant results based on recency/platform versions specified.                                                                                                                                                                                                                                                                                                                                                1
+Define Parameters more detailed. I believe in as example Question descriptions most question should be already answered so the discussion is most effective.                                                                                                                                                                                                                                                               1
+Name: count, Length: 43061, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+AISelect
+Yes                        39042
+No, and I don't plan to    26221
+No, but I plan to soon     22710
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+AISent
+Favorable           29863
+Very favorable      17050
+Indifferent         10147
+Unsure               2471
+Unfavorable          1698
+Very unfavorable      272
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+AIAcc
+Increase productivity;Greater efficiency;Speed up learning                                                                            6576
+Increase productivity;Greater efficiency;Speed up learning;Improve accuracy in coding                                                 5252
+Increase productivity;Greater efficiency                                                                                              4877
+Increase productivity;Speed up learning                                                                                               4349
+Increase productivity                                                                                                                 3114
+Increase productivity;Greater efficiency;Speed up learning;Improve accuracy in coding;Improve collaboration                           1860
+Increase productivity;Greater efficiency;Improve accuracy in coding                                                                   1793
+Speed up learning                                                                                                                     1566
+Increase productivity;Speed up learning;Improve accuracy in coding                                                                    1449
+Greater efficiency                                                                                                                     979
+Greater efficiency;Speed up learning                                                                                                   963
+Increase productivity;Improve accuracy in coding                                                                                       708
+Increase productivity;Greater efficiency;Speed up learning;Improve collaboration                                                       462
+Other (please explain)                                                                                                                 460
+Speed up learning;Improve accuracy in coding                                                                                           408
+Greater efficiency;Speed up learning;Improve accuracy in coding                                                                        356
+Greater efficiency;Improve accuracy in coding                                                                                          256
+Increase productivity;Speed up learning;Improve collaboration                                                                          252
+Improve accuracy in coding                                                                                                             247
+Other (please explain);Increase productivity;Greater efficiency;Speed up learning                                                      237
+Other (please explain);Increase productivity;Speed up learning                                                                         209
+Other (please explain);Increase productivity;Greater efficiency                                                                        206
+Other (please explain);Increase productivity;Greater efficiency;Speed up learning;Improve accuracy in coding                           204
+Other (please explain);Increase productivity                                                                                           196
+Other (please explain);Speed up learning                                                                                               159
+Increase productivity;Greater efficiency;Improve collaboration                                                                         145
+Speed up learning;Improve collaboration                                                                                                130
+Improve collaboration                                                                                                                  126
+Increase productivity;Speed up learning;Improve accuracy in coding;Improve collaboration                                               115
+Increase productivity;Improve collaboration                                                                                            113
+Increase productivity;Greater efficiency;Improve accuracy in coding;Improve collaboration                                               94
+Other (please explain);Increase productivity;Greater efficiency;Speed up learning;Improve accuracy in coding;Improve collaboration      90
+Other (please explain);Greater efficiency                                                                                               70
+Greater efficiency;Speed up learning;Improve collaboration                                                                              59
+Greater efficiency;Improve collaboration                                                                                                58
+Other (please explain);Increase productivity;Greater efficiency;Improve accuracy in coding                                              53
+Other (please explain);Greater efficiency;Speed up learning                                                                             47
+Speed up learning;Improve accuracy in coding;Improve collaboration                                                                      46
+Increase productivity;Improve accuracy in coding;Improve collaboration                                                                  43
+Other (please explain);Increase productivity;Speed up learning;Improve accuracy in coding                                               41
+Greater efficiency;Speed up learning;Improve accuracy in coding;Improve collaboration                                                   28
+Other (please explain);Speed up learning;Improve accuracy in coding                                                                     26
+Other (please explain);Improve accuracy in coding                                                                                       24
+Improve accuracy in coding;Improve collaboration                                                                                        22
+Other (please explain);Increase productivity;Improve accuracy in coding                                                                 22
+Other (please explain);Increase productivity;Greater efficiency;Speed up learning;Improve collaboration                                 18
+Greater efficiency;Improve accuracy in coding;Improve collaboration                                                                     17
+Other (please explain);Greater efficiency;Speed up learning;Improve accuracy in coding                                                  14
+Other (please explain);Greater efficiency;Improve accuracy in coding                                                                    12
+Other (please explain);Increase productivity;Speed up learning;Improve collaboration                                                    11
+Other (please explain);Increase productivity;Greater efficiency;Improve collaboration                                                    9
+Other (please explain);Increase productivity;Improve collaboration                                                                       5
+Other (please explain);Improve collaboration                                                                                             4
+Other (please explain);Increase productivity;Speed up learning;Improve accuracy in coding;Improve collaboration                          4
+Other (please explain);Speed up learning;Improve collaboration                                                                           3
+Other (please explain);Greater efficiency;Speed up learning;Improve collaboration                                                        2
+Other (please explain);Speed up learning;Improve accuracy in coding;Improve collaboration                                                2
+Other (please explain);Greater efficiency;Improve accuracy in coding;Improve collaboration                                               1
+Other (please explain);Increase productivity;Improve accuracy in coding;Improve collaboration                                            1
+Other (please explain);Increase productivity;Greater efficiency;Improve accuracy in coding;Improve collaboration                         1
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+AIBen
+Somewhat trust                24128
+Neither trust nor distrust    18837
+Somewhat distrust             13330
+Highly distrust                3350
+Highly trust                   1751
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+AIToolInterested in Using
+Learning about a codebase;Project planning;Writing code;Documenting code;Debugging and getting help;Testing code;Committing and reviewing code;Deployment and monitoring;Collaborating with teammates     1252
+Learning about a codebase;Project planning;Documenting code;Debugging and getting help;Testing code;Committing and reviewing code;Deployment and monitoring;Collaborating with teammates                   742
+Learning about a codebase                                                                                                                                                                                  624
+Documenting code                                                                                                                                                                                           610
+Learning about a codebase;Project planning;Documenting code;Testing code;Committing and reviewing code;Deployment and monitoring;Collaborating with teammates                                              476
+                                                                                                                                                                                                          ... 
+Learning about a codebase;Project planning;Testing code;Deployment and monitoring;Collaborating with teammates ;Other (please describe)                                                                      1
+Documenting code;Testing code;Committing and reviewing code;Deployment and monitoring;Other (please describe)                                                                                                1
+Learning about a codebase;Project planning;Debugging and getting help;Testing code;Deployment and monitoring;Other (please describe)                                                                         1
+Learning about a codebase;Writing code;Debugging and getting help;Testing code;Collaborating with teammates                                                                                                  1
+Learning about a codebase;Project planning;Writing code;Documenting code;Debugging and getting help;Committing and reviewing code;Other (please describe)                                                    1
+Name: count, Length: 640, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+AIToolCurrently Using
+Writing code                                                                                                            6459
+Writing code;Debugging and getting help                                                                                 3741
+Writing code;Documenting code                                                                                           2363
+Learning about a codebase;Writing code;Debugging and getting help                                                       1673
+Writing code;Documenting code;Debugging and getting help                                                                1528
+                                                                                                                        ... 
+Learning about a codebase;Project planning;Documenting code;Debugging and getting help;Collaborating with teammates        1
+Project planning;Documenting code;Debugging and getting help;Testing code;Deployment and monitoring                        1
+Project planning;Writing code;Documenting code;Testing code;Collaborating with teammates                                   1
+Project planning;Writing code;Testing code;Deployment and monitoring                                                       1
+Learning about a codebase;Documenting code;Debugging and getting help;Testing code;Other (please describe)                 1
+Name: count, Length: 533, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+AIToolNot interested in Using
+Collaborating with teammates                                                                                                                                                          2087
+Project planning                                                                                                                                                                      1397
+Project planning;Collaborating with teammates                                                                                                                                         1297
+Deployment and monitoring;Collaborating with teammates                                                                                                                                1039
+Project planning;Deployment and monitoring;Collaborating with teammates                                                                                                                986
+                                                                                                                                                                                      ... 
+Learning about a codebase;Writing code;Testing code;Committing and reviewing code                                                                                                        1
+Learning about a codebase;Project planning;Writing code;Documenting code;Debugging and getting help;Testing code;Committing and reviewing code;Collaborating with teammates              1
+Documenting code;Testing code;Committing and reviewing code;Collaborating with teammates ;Other (please describe)                                                                        1
+Writing code;Testing code;Committing and reviewing code;Deployment and monitoring;Other (please describe)                                                                                1
+Learning about a codebase;Project planning;Writing code;Testing code;Committing and reviewing code;Deployment and monitoring;Collaborating with teammates ;Other (please describe)       1
+Name: count, Length: 535, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+AINextVery different
+Writing code                                                                                                                                                              1563
+Debugging and getting help                                                                                                                                                1331
+Documenting code                                                                                                                                                          1187
+Writing code;Debugging and getting help                                                                                                                                    798
+Learning about a codebase                                                                                                                                                  750
+                                                                                                                                                                          ... 
+Documenting code;Debugging and getting help;Committing and reviewing code;Collaborating with teammates                                                                       1
+Documenting code;Testing code;Deployment and monitoring                                                                                                                      1
+Writing code;Documenting code;Debugging and getting help;Testing code;Deployment and monitoring;Collaborating with teammates                                                 1
+Learning about a codebase;Project planning;Writing code;Documenting code;Debugging and getting help;Testing code;Committing and reviewing code;Other (please describe)       1
+Project planning;Debugging and getting help;Testing code;Committing and reviewing code                                                                                       1
+Name: count, Length: 349, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+AINextNeither different nor similar
+Writing code                                                                                                                                                       1855
+Debugging and getting help                                                                                                                                          772
+Learning about a codebase                                                                                                                                           553
+Documenting code                                                                                                                                                    455
+Project planning                                                                                                                                                    331
+                                                                                                                                                                   ... 
+Learning about a codebase;Writing code;Documenting code;Debugging and getting help;Testing code;Committing and reviewing code;Collaborating with teammates            1
+Learning about a codebase;Project planning;Writing code;Debugging and getting help;Testing code;Committing and reviewing code                                         1
+Learning about a codebase;Project planning;Testing code;Collaborating with teammates                                                                                  1
+Writing code;Testing code;Committing and reviewing code;Collaborating with teammates                                                                                  1
+Project planning;Documenting code;Debugging and getting help;Testing code;Committing and reviewing code;Deployment and monitoring;Collaborating with teammates        1
+Name: count, Length: 222, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+AINextSomewhat similar
+Writing code                                                                                                                         2222
+Debugging and getting help                                                                                                            517
+Learning about a codebase                                                                                                             398
+Writing code;Debugging and getting help                                                                                               361
+Writing code;Documenting code                                                                                                         301
+                                                                                                                                     ... 
+Learning about a codebase;Project planning;Committing and reviewing code;Deployment and monitoring;Collaborating with teammates         1
+Project planning;Debugging and getting help;Testing code                                                                                1
+Writing code;Documenting code;Debugging and getting help;Testing code;Collaborating with teammates                                      1
+Project planning;Writing code;Documenting code;Testing code                                                                             1
+Project planning;Writing code;Documenting code;Debugging and getting help;Committing and reviewing code;Deployment and monitoring       1
+Name: count, Length: 197, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+AINextVery similar
+Writing code                                                                                                    944
+Debugging and getting help                                                                                      188
+Documenting code                                                                                                126
+Writing code;Documenting code                                                                                   124
+Learning about a codebase                                                                                       124
+                                                                                                               ... 
+Committing and reviewing code;Deployment and monitoring;Collaborating with teammates                              1
+Learning about a codebase;Writing code;Documenting code;Debugging and getting help;Deployment and monitoring      1
+Project planning;Documenting code;Debugging and getting help                                                      1
+Learning about a codebase;Project planning;Documenting code;Debugging and getting help;Testing code               1
+Learning about a codebase;Writing code;Debugging and getting help;Testing code;Committing and reviewing code      1
+Name: count, Length: 159, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+AINextSomewhat different
+Writing code                                                                                                                                     6540
+Writing code;Debugging and getting help                                                                                                          2072
+Debugging and getting help                                                                                                                       1541
+Learning about a codebase                                                                                                                        1383
+Writing code;Documenting code                                                                                                                    1148
+                                                                                                                                                 ... 
+Learning about a codebase;Deployment and monitoring;Collaborating with teammates                                                                    1
+Project planning;Writing code;Documenting code;Committing and reviewing code                                                                        1
+Learning about a codebase;Project planning;Writing code;Documenting code;Debugging and getting help;Collaborating with teammates                    1
+Learning about a codebase;Project planning;Writing code;Documenting code;Testing code;Committing and reviewing code;Deployment and monitoring       1
+Learning about a codebase;Testing code;Collaborating with teammates                                                                                 1
+Name: count, Length: 326, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+TBranch
+Yes    43872
+No     21896
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+ICorPM
+Individual contributor    37685
+People manager             5983
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+WorkExp
+5.0     3299
+10.0    3019
+2.0     2796
+3.0     2781
+4.0     2529
+7.0     2422
+6.0     2329
+1.0     2271
+8.0     2232
+15.0    2001
+12.0    1719
+20.0    1608
+9.0     1425
+11.0    1321
+25.0    1202
+13.0    1174
+16.0     875
+17.0     856
+14.0     853
+18.0     774
+23.0     728
+30.0     624
+22.0     538
+24.0     410
+19.0     379
+21.0     374
+26.0     332
+27.0     295
+35.0     292
+28.0     268
+0.0      261
+40.0     177
+33.0     168
+32.0     162
+31.0     131
+29.0     128
+36.0     125
+34.0     106
+37.0      94
+38.0      86
+50.0      77
+41.0      67
+45.0      53
+39.0      45
+42.0      44
+43.0      43
+44.0      27
+46.0      26
+47.0      17
+48.0      12
+49.0       4
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+Knowledge_1
+Agree                         19812
+Strongly agree                15502
+Neither agree nor disagree     3593
+Disagree                       2603
+Strongly disagree              1025
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+Knowledge_2
+Agree                         13464
+Neither agree nor disagree    10636
+Disagree                       9186
+Strongly agree                 5220
+Strongly disagree              3164
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+Knowledge_3
+Agree                         16865
+Neither agree nor disagree    11096
+Disagree                       7786
+Strongly agree                 4056
+Strongly disagree              1995
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+Knowledge_4
+Agree                         18978
+Neither agree nor disagree    10715
+Disagree                       6029
+Strongly agree                 4756
+Strongly disagree              1206
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+Knowledge_5
+Agree                         22131
+Neither agree nor disagree     7579
+Strongly agree                 7235
+Disagree                       3805
+Strongly disagree               777
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+Knowledge_6
+Agree                         15171
+Neither agree nor disagree    11353
+Disagree                       8576
+Strongly agree                 5128
+Strongly disagree              1292
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+Knowledge_7
+Agree                         15659
+Neither agree nor disagree     9938
+Disagree                       7843
+Strongly agree                 6501
+Strongly disagree              1526
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+Knowledge_8
+Agree                         16430
+Neither agree nor disagree    10958
+Disagree                       7007
+Strongly agree                 4606
+Strongly disagree              2403
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+Frequency_1
+1-2 times a week     25528
+Never                10707
+3-5 times a week      4100
+6-10 times a week      847
+10+ times a week       734
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+Frequency_2
+1-2 times a week     18930
+3-5 times a week      9809
+10+ times a week      4794
+6-10 times a week     4383
+Never                 4009
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+Frequency_3
+1-2 times a week     21470
+Never                12107
+3-5 times a week      5125
+6-10 times a week     1280
+10+ times a week      1072
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+TimeSearching
+30-60 minutes a day           16338
+15-30 minutes a day           11773
+60-120 minutes a day           7626
+Less than 15 minutes a day     3959
+Over 120 minutes a day         3082
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+TimeAnswering
+15-30 minutes a day           13678
+30-60 minutes a day           13013
+Less than 15 minutes a day     8321
+60-120 minutes a day           5674
+Over 120 minutes a day         1943
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+ProfessionalTech
+None of these                                                                                                                                                                                           4871
+DevOps function;Microservices;Automated testing;Observability tools;Developer portal or other central places to find tools/services;Continuous integration (CI) and (more often) continuous delivery    2618
+DevOps function;Microservices;Automated testing;Observability tools;Continuous integration (CI) and (more often) continuous delivery                                                                    2271
+DevOps function;Microservices;Automated testing;Continuous integration (CI) and (more often) continuous delivery                                                                                        1656
+DevOps function;Automated testing;Continuous integration (CI) and (more often) continuous delivery                                                                                                      1524
+                                                                                                                                                                                                        ... 
+Observability tools;Continuous integration (CI) and (more often) continuous delivery;None of these                                                                                                         1
+Automated testing;Observability tools;Innersource initiative;Continuous integration (CI) and (more often) continuous delivery;None of these                                                                1
+Automated testing;Continuous integration (CI) and (more often) continuous delivery;None of these                                                                                                           1
+Microservices;Observability tools;None of these                                                                                                                                                            1
+DevOps function;Microservices;Automated testing;Observability tools;Innersource initiative;Continuous integration (CI) and (more often) continuous delivery;None of these                                  1
+Name: count, Length: 284, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+Industry
+Information Services, IT, Software Development, or other Technology    18159
+Financial Services                                                      4421
+Other                                                                   4011
+Manufacturing, Transportation, or Supply Chain                          2607
+Healthcare                                                              2216
+Retail and Consumer Services                                            1955
+Higher Education                                                        1242
+Advertising Services                                                     786
+Insurance                                                                707
+Oil & Gas                                                                276
+Legal Services                                                           210
+Wholesale                                                                184
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+SurveyLength
+Appropriate in length    65962
+Too long                 18605
+Too short                 1918
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+SurveyEase
+Easy                          54092
+Neither easy nor difficult    31088
+Difficult                      1374
+Name: count, dtype: int64
+$$$$$$$$$$$$$$$$$$$
+ConvertedCompYearly
+64254.0     784
+53545.0     615
+150000.0    585
+200000.0    558
+74963.0     557
+           ... 
+31494.0       1
+859.0         1
+77904.0       1
+74917.0       1
+16917.0       1
+Name: count, Length: 8784, dtype: int64
+$$$$$$$$$$$$$$$$$$$
